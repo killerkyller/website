@@ -1,0 +1,40 @@
+header{
+    text-align: center;
+}
+/*výška hlavičky na logo a tak*/
+
+
+.text-left {
+    color: black;
+    font-size: 2.2rem;
+    font-family: "Winky Sans", sans-serif;
+    margin-bottom: 0%;
+}
+
+
+footer {
+line-height: 40px;
+display: flex;
+justify-content: center;
+font-size: 1rem;
+
+}
+
+.header-logo{
+    height: 40vh;
+}
+
+.photography{
+    height: 90vh;
+
+}
+
+.photo{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.photo img{
+    width: 33%;
+    height: auto;
+}
