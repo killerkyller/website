@@ -21,7 +21,11 @@ font-size: 1rem;
 }
 
 .header-logo{
-    width: 100vw;
+    width: 95vw;
+}
+
+.header-logo img{
+    width: 100%;
 }
 
 .photography{
@@ -37,4 +41,10 @@ font-size: 1rem;
 .photo img{
     width: 33%;
     height: auto;
+}
+
+.video_showcase {
+    width: 49%;
+    height: auto;
+    aspect-ratio: 16/9;
 }
