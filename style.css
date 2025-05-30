@@ -43,6 +43,16 @@ font-size: 1rem;
     height: auto;
 }
 
+.photo-4{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.photo-4 img{
+    width: 19.5%;
+    height: auto;
+}
+
 .video_showcase {
     width: 49%;
     height: auto;
